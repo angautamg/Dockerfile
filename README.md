@@ -16,6 +16,7 @@ ENTRYPOINT [ "node","index.js" ]
 
    OR
 2--------------------------------------------------
+
 FROM node
 
 COPY package.json package.json
